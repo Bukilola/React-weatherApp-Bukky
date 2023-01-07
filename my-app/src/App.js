@@ -17,9 +17,9 @@ function App() {
           target="-blank"
           rel="noreferrer"
         >
-          Open-source
+          Open-source and 
         </a>
-        , created by Arasanyin Olubukola
+         created by Arasanyin Olubukola
       </p>
     </div>
   );
